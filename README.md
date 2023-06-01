@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Purohit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parjun70001@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/parju/OneDrive/Documents/My%20certificates/MY%20RESUME.pdf](file:///C:/Users/parju/OneDrive/Documents/My%20certificates/MY%20RESUME.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19t3xA1SJuuaYA7cPzl3MQmE-PwKixCDp/view?usp=drive_link](https://drive.google.com/file/d/19t3xA1SJuuaYA7cPzl3MQmE-PwKixCDp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
