@@ -2,11 +2,14 @@
     <div style="text-align: center; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <h1 style="color: #333; font-size: 3em;">&nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  Hi👋, I'm Arjun Purohit</h1>
     </div>
+    <body/>
+
+   <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack.<br>👯 I’m looking to collaborate on Full Stack Projects<br>💬 Ask me about React, Express, Web Sockets, JWT Auth, Node, Axios.<br>🌱 I’m currently learning DSA**<br>📫 How to reach me **parjun70001@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 # 💻 Tech Stack:
 <br>
