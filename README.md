@@ -9,6 +9,8 @@
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack.<br>👯 I’m looking to collaborate on Full Stack Projects<br>💬 Ask me about React, Express, Web Sockets, JWT Auth, Node, Axios.<br>🌱 I’m currently learning DSA**<br>📫 How to reach me **parjun70001@gmail.com**
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-purohit-295732245/AC)  &nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArjunP7001)  &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arjun.work14@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Arjun_Purohit05/)
 
 
 # 💻 Tech Stack:
@@ -81,9 +83,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-purohit-295732245/AC)  &nbsp; [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArjunP7001)  &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arjun.work14@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Arjun_Purohit05/)
 
 
 ### 🔝 Top Contributed Repo
